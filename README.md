@@ -6,7 +6,7 @@ Welcome! This portfolio showcases my approach to supporting Agile teams and admi
 
 ## About me
 
-I am a Certified Scrum Master with experience supporting Agile delivery, Jira administration, cross-functional collaboration, and process improvement. My background includes work at WEX as a Scrum Master intern and in Agile Engineering/Jira administration, as well as project coordination and business process improvement in a nonprofit environment.
+I am a Certified Scrum Master with experience supporting Agile delivery, Jira administration, cross-functional collaboration, and process improvement. My background includes work at WEX as a Scrum Master and in Agile Engineering/Jira administration, as well as project coordination and business process improvement in a nonprofit environment.
 
 I focus on helping teams make work visible, remove friction, and improve delivery through practical workflows, useful metrics, and clear communication.
 
